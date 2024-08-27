@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aditya Patle</h1>
+<h1 align="center">Hi 👋, I'm Aditya Patle </h1>
 <h3 align="center">"I am a dedicated frontend developer based in India with a strong focus on delivering high-quality web applications."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadipatle&label=Profile%20views&color=0e75b6&style=flat" alt="aadipatle" /> </p>
 
-- 🔭 I’m currently working on **Front-End Developer(React.js Developer)**
+- 🔭 I’m currently working on **Front-End Developer (React.js Developer)**
 
 - 🌱 I’m currently learning **React-Native And NodeJs**
 
